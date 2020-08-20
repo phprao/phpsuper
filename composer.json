@@ -1,0 +1,13 @@
+{
+    "name": "phprao/phpsuper",
+    "description": "phpsuper is used to manage php process",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpSuper\\": "src/"
+        }
+    }
+}
